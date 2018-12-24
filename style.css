@@ -1,0 +1,30 @@
+.question-area, .answer-area{
+    margin-bottom:75px;
+    width:300px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+#question,#answer{
+    padding:10px;
+    border:1px solid gray;
+    text-align:center;
+}
+
+#answer{
+    margin-bottom:25px;
+    font-size:18px;
+}
+
+.button-display{
+    width:300px;
+    margin:0 auto;
+    text-align:center;
+}
+
+
+
+
+
+
